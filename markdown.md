@@ -37,3 +37,23 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
+
+# LINKS
+
+[I'm an inline-style link](https://mkth.cf/me/den/)
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself]
+
+URLs and URLs in angle brackets will automatically get turned into links. 
+https://mkth.cf/me/den/ or <https://mkth.cf/me/den/> and sometimes 
+example.com (but not on Github, for example).
+
+Some text to show that the reference links can follow later.
+
+[arbitrary case-insensitive reference text]: https://mkth.cf/me/den/
+[1]: https://mkth.cf/me/den/
+[link text itself]: https://mkth.cf/me/den/
